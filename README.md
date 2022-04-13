@@ -1,0 +1,4 @@
+- 👋 Hi, I’m SrBime
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Java Script 
+- 📫 How to reach me SrBime#5296 (Discord)
